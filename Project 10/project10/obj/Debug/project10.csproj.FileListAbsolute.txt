@@ -1,0 +1,9 @@
+C:\Users\SoClassyItHurts\Desktop\project10\project10\bin\Debug\project10.exe.config
+C:\Users\SoClassyItHurts\Desktop\project10\project10\obj\Debug\project10.csprojResolveAssemblyReference.cache
+C:\Users\SoClassyItHurts\Desktop\project10\project10\obj\Debug\project10.Form1.resources
+C:\Users\SoClassyItHurts\Desktop\project10\project10\obj\Debug\project10.Properties.Resources.resources
+C:\Users\SoClassyItHurts\Desktop\project10\project10\obj\Debug\project10.csproj.GenerateResource.Cache
+C:\Users\SoClassyItHurts\Desktop\project10\project10\bin\Debug\project10.exe
+C:\Users\SoClassyItHurts\Desktop\project10\project10\bin\Debug\project10.pdb
+C:\Users\SoClassyItHurts\Desktop\project10\project10\obj\Debug\project10.exe
+C:\Users\SoClassyItHurts\Desktop\project10\project10\obj\Debug\project10.pdb

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ JackieChan\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=
+comment1.target=void\ turnAtEdge()
+comment2.params=
+comment2.target=void\ randomTurn()
+comment3.params=
+comment3.target=void\ lookForJackieChan()
+comment4.params=
+comment4.target=void\ checkKeyPress()
+numComments=5
